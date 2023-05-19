@@ -88,7 +88,7 @@ Este es el mockup de la webapp:
 1. Un botón para reproducir audio (y detenerlo)
 2. Un selector del audio que puede escuchar.
 
-El planteamiento de requisitos mínimos para la primera semanae es:
+El planteamiento de requisitos mínimos para la primera semana es:
 
 
 ### Requisitos funcionales
