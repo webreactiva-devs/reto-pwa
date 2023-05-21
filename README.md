@@ -118,6 +118,7 @@ Te dejo unos recursos para que puedas empezar  a investigar:
 
 - [Cómo construir una PWA desde cero con HTML, CSS y JavaScript](https://www.freecodecamp.org/espanol/news/como-construir-una-pwa-desde-cero-con-html-css-y-javascript/)
 - [Learn PWA](https://web.dev/learn/pwa/)
+- [Get started with Progressive Web Apps](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
 - [Cómo agregar un manifiesto en la aplicación web](https://web.dev/i18n/es/add-manifest)
 - [Vite PWA](https://vite-pwa-org.netlify.app/)
 - [WR 27: Convierte tu web en una PWA](https://www.webreactiva.com/podcast/web-en-pwa)
