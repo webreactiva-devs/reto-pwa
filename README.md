@@ -151,15 +151,15 @@ Tu PWA necesita una mejora cuanto antes: ¡qué funcione en modo offline!
 
 - ¿Podría tu PWA guardar el estado de reproducción del audio? Por ejemplo, el audio seleccionado o el segundo en el que se estaba reproduciendo.
 
-
 ### 🥶 Recomendaciones de Supercoco
 
 Algunos recursos que pueden serte de ayuda:
 
-- [WRP 247. Cómo empezar y deslumbrar con las PWA]
-- Learn PWA: [Service Workers], [Caching]
-- [Hacer que las PWAs trabajen desconectadas con servicio workers] {[EN]}
-- [Make Progressive Web Apps Work Offline]
+- [WRP 247. Cómo empezar y deslumbrar con las PWA](https://www.webreactiva.com/audios/como-empezar-deslumbrar-pwa)
+- Learn PWA: [Service Workers](https://web.dev/learn/pwa/service-workers/), [Caching](https://web.dev/learn/pwa/caching/)
+- [Hacer que las PWAs trabajen desconectadas con servicio workers](https://developer.mozilla.org/es/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Offline_Service_workers) {[EN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Offline_Service_workers)}
+- [Make Progressive Web Apps Work Offline](https://dev.to/azure/05-make-progressive-web-apps-work-offline-fil)
+
 
 
 ### Puntos
