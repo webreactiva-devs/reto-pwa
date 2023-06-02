@@ -126,17 +126,51 @@ Te dejo unos recursos para que puedas empezar  a investigar:
 
 ### Puntos
 
-Los participantes que entreguen la solución antes del 1 de Junio a las 19:00 CEST ganan 2 puntos.
+Los participantes que entreguen la solución antes del 1 de Junio a las 19:00 CEST ganan 20 puntos.
 
-Si entregas más tarde, antes del final, 1 punto.
+Si entregas más tarde, antes del final, 10 puntos.
 
 
 
-## Segunda contienda: Por descubrir
+## Segunda contienda: Service Worker!
 
-WIP
+Tampoco es que tu abuela viva en una cueva o en mitad de la nada, pero no es el lugar con mejor cobertura del mundo.
 
-## Tercera contienda : Por descubrir
+Te dice que muchas veces estaba escuchando algo y luego “como que se va la conexión”.
+
+Tu PWA necesita una mejora cuanto antes: ¡qué funcione en modo offline!
+
+### Requisitos
+
+1. Debes incorporar un Service Worker en tu PWA
+2. El Service Worker debe registrarse correctamente
+3. Hay que incluir un sistema de caché que sea capaz de almacenar los ficheros estáticos de la web: HTML, CSS, JS y, por supuesto, los audios
+4. La web debe poder cargarse en modo offline una vez haya sido cargada previamente.
+
+**Extra**
+
+- ¿Podría tu PWA guardar el estado de reproducción del audio? Por ejemplo, el audio seleccionado o el segundo en el que se estaba reproduciendo.
+
+
+### 🥶 Recomendaciones de Supercoco
+
+Algunos recursos que pueden serte de ayuda:
+
+- [WRP 247. Cómo empezar y deslumbrar con las PWA]
+- Learn PWA: [Service Workers], [Caching]
+- [Hacer que las PWAs trabajen desconectadas con servicio workers] {[EN]}
+- [Make Progressive Web Apps Work Offline]
+
+
+### Puntos
+
+Los participantes que entreguen la solución antes del 8 de Junio a las 23:59  ganan 20 puntos.
+
+Si entregas más tarde, antes del final, 10 puntos.
+
+
+
+## Tercera contienda: Pantalla Bloqueada!
 
 WIP
 
