@@ -172,6 +172,26 @@ Si entregas más tarde, antes del final, 10 puntos.
 
 ## Tercera contienda: Pantalla Bloqueada!
 
-WIP
+Si algo hay que tu abuela no soporte de YouTube es que no se pueda escuchar en pantalla bloqueda (salvo que pases por caja).
+
+¡Es tu gran momento!
+
+### Requisitos
+
+- El audio tiene que ser resproducible con la pantalla bloqueada del movil
+- Tiene que verse, en pantalla bloqueada, la información de lo que está escuchándose: nombre, carátula
+- Tu abuela tiene cosas que hacer: Añade (en pantalla normal, no es necesario que esté bloqueada) la opción de escuchar el audio a 2x (doble velocidad)
+
+**Extra**
+
+- ¿Podría tu PWA guardar el estado de reproducción del audio? Por ejemplo, el audio seleccionado o el segundo en el que se estaba reproduciendo.
+
+Ya, ya, es el mismo del reto anterior, pero que sepas que tienes 10 puntos más ;)
+
+### Puntos
+
+Los participantes que entreguen la solución antes del 15 de Junio a las 19:00  ganan 10 puntos.
+
+Si presentas tu solución en la final del 15 de Junio ganarás 20 puntazos más.
 
 ¡A por ello!
